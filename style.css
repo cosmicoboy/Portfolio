@@ -173,6 +173,11 @@ li a {
     text-decoration: none;
 }
 
+.projecFont {
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+    color: #251574;
+}
 
 
 
@@ -315,5 +320,10 @@ li a {
         text-decoration: none;
     }
     
+    .projecFont {
+        font-size: 25px;
+        font-family: 'Righteous', cursive;
+        color: #251574;
+    }
 }
 
